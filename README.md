@@ -3,7 +3,7 @@ Practical assignment for Oracle Database 21c XE: creating and managing Pluggable
 
 # Oracle Pluggable Database Assignment II
 
-Student Name: Kiara Nahla Tuyikunde  
+Student Name: Kiara Nahla Ria Tuyikunde  
 Student ID: 29737  
 Course: Oracle Database 21c XE – Practical Assessment  
 Date: 15-Feb-2026  
